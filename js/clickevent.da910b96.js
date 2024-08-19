@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3"]=self["webpackChunkvue3"]||[]).push([[415],{684:function(n,u,t){t.r(u),t.d(u,{default:function(){return k}});var e=t(6768),r=t(4232);function c(n,u,t,c,o,l){return(0,e.uX)(),(0,e.CE)("div",null,[(0,e.Lk)("button",{type:"button",onClick:u[0]||(u[0]=n=>o.counter+=1)},"click"),(0,e.Lk)("p",null,"위 버튼을 클릭 한 횟수는 "+(0,r.v_)(o.counter)+"번 입니다.",1)])}var o={data(){return{counter:0}}},l=t(1241);const a=(0,l.A)(o,[["render",c]]);var k=a}}]);
+//# sourceMappingURL=clickevent.da910b96.js.map

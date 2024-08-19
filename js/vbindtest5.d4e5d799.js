@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3"]=self["webpackChunkvue3"]||[]).push([[743],{5531:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var t=r(6768),u=r(4232);function o(e,n,r,o,a,c){return(0,t.uX)(),(0,t.CE)("div",null,[(0,t.Lk)("span",{style:(0,u.Tr)({color:a.activeColor,fontSize:a.fontSize+"px"})},"인라인 클래스 적용하기",4)])}var a={data(){return{activeColor:"green",fontSize:30}}},c=r(1241);const i=(0,c.A)(a,[["render",o]]);var f=i}}]);
+//# sourceMappingURL=vbindtest5.d4e5d799.js.map

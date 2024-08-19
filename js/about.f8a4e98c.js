@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3"]=self["webpackChunkvue3"]||[]).push([[594],{7862:function(t,u,e){e.r(u),e.d(u,{default:function(){return i}});var n=e(6768),r=e(4232);function a(t,u,e,a,c,l){return(0,n.uX)(),(0,n.CE)("h1",null,"어바웃, "+(0,r.v_)(c.title),1)}var c={data(){return{title:"about",name:"About"}}},l=e(1241);const f=(0,l.A)(c,[["render",a]]);var i=f}}]);
+//# sourceMappingURL=about.f8a4e98c.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3"]=self["webpackChunkvue3"]||[]).push([[839],{3627:function(e,u,n){n.r(u),n.d(u,{default:function(){return v}});var t=n(6768),l=n(5130);function a(e,u,n,a,r,o){return(0,t.uX)(),(0,t.CE)("div",null,[(0,t.bo)((0,t.Lk)("input",{type:"text","onUpdate:modelValue":u[0]||(u[0]=e=>r.valueModel=e)},null,512),[[l.Jo,r.valueModel]])])}var r={data(){return{valueModel:"South Korea"}}},o=n(1241);const d=(0,o.A)(r,[["render",a]]);var v=d}}]);
+//# sourceMappingURL=databindinginputtext.cb6b094d.js.map

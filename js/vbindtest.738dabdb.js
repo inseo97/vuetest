@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3"]=self["webpackChunkvue3"]||[]).push([[534],{9685:function(e,t,u){u.r(t),u.d(t,{default:function(){return v}});var c=u(6768),n=u(4232);function r(e,t,u,r,s,a){return(0,c.uX)(),(0,c.CE)("div",{class:(0,n.C4)({active:s.isActive})},"active css 클래스 적용하기",2)}var s={data(){return{isActive:!0}}},a=u(1241);const i=(0,a.A)(s,[["render",r]]);var v=i}}]);
+//# sourceMappingURL=vbindtest.738dabdb.js.map

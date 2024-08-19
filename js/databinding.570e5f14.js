@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3"]=self["webpackChunkvue3"]||[]).push([[430],{9369:function(n,e,t){t.r(e),t.d(e,{default:function(){return d}});var u=t(6768),r=t(4232);function a(n,e,t,a,i,l){return(0,u.uX)(),(0,u.CE)("h1",null,(0,r.v_)(i.title),1)}var i={data(){return{title:"world",name:"databinding"}}},l=t(1241);const c=(0,l.A)(i,[["render",a]]);var d=c}}]);
+//# sourceMappingURL=databinding.570e5f14.js.map
